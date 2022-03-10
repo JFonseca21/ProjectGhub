@@ -1,0 +1,54 @@
+
+html,
+body{
+
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Lobster', cursive;
+}
+
+
+
+
+.gradient{
+
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(52,224,78,1) 0%, rgba(0,212,255,1) 100%);
+
+}
+
+.gradient1{
+
+    background: rgb(81,147,104);
+    background: radial-gradient(circle, rgba(81,147,104,1) 4%, rgba(112,158,226,1) 57%, rgba(0,212,255,1) 98%);
+    
+}
+
+.page-header{
+
+margin-top: 4rem;
+font-size: 2rem;
+color:whitesmoke;
+
+}
+
+
+.fa-facebook {
+    
+    color: #3B5998;
+  }
+  
+  .fa-twitter {
+    
+    color: #55ACEE;
+  }
+  
+  .fa-instagram {
+    
+    color: orangered;
+  }
+
+  .section {
+    margin-top: 100px
+}
+
